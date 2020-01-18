@@ -16,8 +16,8 @@ def producto(pr):
 
 #EJERCICIO 3
 
-def amor(str):
-    if(str=="Mariela"):
+def mujer(str):
+    if(str=="MARIELA"):
         return str.lower()
     else:
         return str
@@ -72,7 +72,7 @@ def mario(vc):
 #FIN
 
 #EJERCICIO 10
-def riycr(tu):
+def cod(tu):
     if(tu=="345ABC"):
         return tu.isalnum()
     else:
@@ -80,7 +80,7 @@ def riycr(tu):
 #FIN
 
 #EJERCICIO 11
-def tro(tr):
+def trig(tr):
     if(tr=="DRE"):
         return tr.isalpha()
     else:
@@ -89,10 +89,11 @@ def tro(tr):
 
 #EJERCICIO 12
 def mar(mr):
-    if(mr=="tazon2"):
+    if(mr=="arena2"):
         return mr.isascii()
     else:
         return mr
+
 #FIN
 
 #EJERCICIO 13
